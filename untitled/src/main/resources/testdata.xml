@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dataset name="loginDataset">
+        <row>
+            <id>1</id>
+            <username>standard_user</username>
+            <password>secret_sauce</password>
+        </row>
+        <row>
+            <id>2</id>
+            <username>problem_user</username>
+            <password>secret_sauce</password>
+        </row>
+</dataset>
